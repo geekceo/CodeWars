@@ -1,7 +1,6 @@
 ## Find the missing letter ##
 
-<a href="url"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" align="left" height="250" width="250" ></a>
-[![CodeWars](https://www.codewars.com/packs/assets/logo.61192cf7.svg = 250x250)](https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+<a href="url"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" align="left" height="128" width="128" >https://www.codewars.com/kata/5839edaa6754d6fec10000a2</a>
 
 Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
 
