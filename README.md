@@ -5,4 +5,6 @@
 ![Count](https://img.shields.io/badge/Total-20-darkgreen)&nbsp;
 
 ## Description ##
-Here I post my solutions to Python tasks from the CodeWars website
+Here I post my solutions to Python katas from the CodeWars website
+
+Join and complete with me!
