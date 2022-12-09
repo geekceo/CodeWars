@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)&nbsp;
 
-![Count](https://img.shields.io/badge/Total-20-222222)&nbsp;
+![Count](https://img.shields.io/badge/Total-20-darkgreen)&nbsp;
 
 ## Description ##
 Here I post my solutions to Python tasks from the CodeWars website
