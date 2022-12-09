@@ -6,3 +6,5 @@
 
 ## Description ##
 Here I post my solutions to Python katas from the CodeWars website
+
+Join and complete with me!
